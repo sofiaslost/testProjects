@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
       HelpCommand();
+      AboutCommand();
     }
     
     private void HelpCommand()
